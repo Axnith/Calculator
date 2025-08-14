@@ -13,7 +13,8 @@ function Evaluate(){
     display.value = 'Error';
     setTimeout(()=>{
       display.value = '';
-    },2000);
+    },800);
   }
 }
+
 
